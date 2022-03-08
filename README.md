@@ -1,7 +1,8 @@
 ### Hi, I'm Pedro! Welcome to my GitHub profile 😊
 
 - 🖥️ I’m currently working on my bachelor's degree in computer science 
-- 🌐 I’m used to work with Python and SQL 
+- 🌐 I’m used to work with Python, C++ and SQL 
+- 👾 Learning Java
 - 📍  I’m currenty living on Brazil
 
 ##
