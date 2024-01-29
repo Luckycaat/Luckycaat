@@ -1,9 +1,9 @@
-### Hi, I'm Pedro! Welcome to my GitHub profile 😊
+### Olá, Eu sou o Pedro! Seja bem-vindo(a) ao meu GitHub 😊
 
-- 🖥️ I’m currently working on my bachelor's degree in computer science 
-- 🌐 I’m used to work with Python, C++ and SQL 
-- 👾 Learning Java
-- 📍  I’m currenty living on Brazil
+- 🖥️ Sou aluno de Ciências da Computação
+- 🌐 Desenvolvedor Php, com foco no framework Laravel 
+- 👾 Estou aprendendo React e Vue.js
+- 📍  Atualmente moro no Brasil
 
 ##
 
