@@ -2,16 +2,10 @@
 
 - 🖥️ Sou aluno de Ciências da Computação
 - 🌐 Desenvolvedor Php, com foco no framework Laravel 
-- 👾 Estou aprendendo React e Vue.js
 - 📍  Atualmente moro no Brasil
 
 ##
 
-<div align="center" style="display:none">
-  <a href="https://github.com/Luckycaat">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luckycaat&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="100em" width="1000" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luckycaat&layout=compact&langs_count=7&theme=dark"/>
-</div>
   
 ##
   
